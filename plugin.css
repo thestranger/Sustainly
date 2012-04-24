@@ -1,0 +1,23 @@
+.sustainly-content {
+bottom:0;
+left:0;
+position:absolute;
+width:100%;
+}
+
+.sustainly-toolbar #sustainly-toolbar-header {
+-moz-border-radius:10px 10px 0 0; 
+-moz-box-shadow:0 1px 5px 0 rgba(0,0,0,0.4);
+background:#F0000F;
+height:40px;
+margin:0 40%;
+
+}
+
+.sustainly-toolbar #sustainly-toolbar-body {
+-moz-border-radius:10px 10px 0 0; 
+-moz-box-shadow:0 1px 5px 0 rgba(0,0,0,0.4);
+background:#F0000F;
+height:100px;
+margin:0 2.5%;
+}
